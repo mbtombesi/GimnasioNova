@@ -1,0 +1,20 @@
+body {
+    margin:0;
+    padding: 0;
+    background: linear-gradient(rgb(44, 44, 44),rgb(20, 20, 20));
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+    color:blanchedalmond;
+    margin: 2%;
+
+}
